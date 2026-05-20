@@ -1,6 +1,6 @@
 # License Status: Induced Demand: A Microscopic Perspective
 
-Generated: 2026-05-20 13:10:44 AEST
+Generated: 2026-05-20 13:31:26 AEST
 
 Recorded license/access note from the verified audit row: Local derived/agency-source package; add explicit license/provenance notes at upload time for author-created code/data only.
 
